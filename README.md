@@ -1,6 +1,6 @@
 # About
 
-Planned content:
+## Planned content
 
 - xx4yy articles, where xx and yy are [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (à la [Learn X in Y minutes](https://learnxinyminutes.com/))
   + Just the things you need to get started reading (and possibly writing) maths, e.g. overview of grammar, and then straight into sentences like "Let A be an abelian group, and ..."
