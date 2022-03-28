@@ -11,3 +11,9 @@
   + Static version downloads (e.g. PDF)
 - Community-written blog
   + Expository mathematical articles written (mostly) in languages other than English
+
+
+## Links to existing stuff
+
+- [Maths Dictionary](https://thosgood.com/maths-dictionary/)
+- [Multilingual Mathematics (Weblate)](https://hosted.weblate.org/projects/multilingual-mathematics/)
