@@ -18,3 +18,4 @@
 ## Links to existing stuff
 
 - [Maths Dictionary](https://thosgood.com/maths-dictionary/)
+- [Visual Mathematical Dictionary](https://math.uni.lu/dictionary/wordlists.html)
